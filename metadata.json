@@ -1,0 +1,8 @@
+{
+  "name": "忘情水：刘德华磁带互动",
+  "description": "一个互动式的磁带页面，模拟拉扯《忘情水》磁带并显示歌词，充满复古深蓝调。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
